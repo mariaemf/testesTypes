@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <View>
-      <Text>Header</Text>
-    </View>
+    <header>
+      <h1>Header</h1>
+    </header>
   );
 };
 
